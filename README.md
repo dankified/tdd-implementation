@@ -3,10 +3,11 @@
 ## Setup
 1. Create a new directory named ```tdd-implementation```
 2. Change directory into ```tdd-implementation```
-3. run ```npm install jest -D```
-4. create a ```__tests__``` directory. This is where you will be creating all the ```.test.js``` files.
-5. in ```package.json``` change the ```test``` ```script``` to ```jest --watchAll```
-6. run ```npm run test```
+3. run ```npm init -y```
+4. run ```npm install jest -D```
+5. create a ```__tests__``` directory. This is where you will be creating all the ```.test.js``` files.
+6. in ```package.json``` change the ```test``` ```script``` to ```jest --watchAll```
+7. run ```npm run test```
 
 ## Instructions
 ### Testing a class
