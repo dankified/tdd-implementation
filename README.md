@@ -20,12 +20,16 @@
 3. Write tests for the following functionalities
 	```Person``` should:
 	3a. be of type ```function```
-
+	
 	A new instance of ```Person``` should:
 	3a.  Have a ```name``` property.
+	
 	3b.  Have an ```age``` property. This property should have a default value of 0.
+	
 	3c.  Have a ```greet``` property in its Prototype. Look up how to access a class instance's Prototype. Also check that this property is a function.
+	
 	3d. When calling the ```greet``` method expect the return value to be ```Hi! My name is ``` followed by the ```name``` property of that instance.
+	
 	3e. have a ```constructor``` property that's equals to ```Person```.
 5. Implement the ```Person``` class inside the ```person.js``` folder.
 
