@@ -22,6 +22,7 @@
 	3a. be of type ```function```
 	
 	A new instance of ```Person``` should:
+	
 	3a.  Have a ```name``` property.
 	
 	3b.  Have an ```age``` property. This property should have a default value of 0.
