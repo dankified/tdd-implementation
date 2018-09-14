@@ -33,5 +33,5 @@
 	3d. When calling the ```greet``` method expect the return value to be ```Hi! My name is ``` followed by the ```name``` property of that instance.
 	
 	3e. have a ```constructor``` property that's equals to ```Person```.
-5. Implement the ```Person``` class inside the ```person.js``` folder.
+5. Implement the ```Person``` class inside the ```person.js``` file.
 
