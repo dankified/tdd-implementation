@@ -34,4 +34,3 @@
 	
 	3e. have a ```constructor``` property that's equals to ```Person```.
 5. Implement the ```Person``` class inside the ```person.js``` file.
-
