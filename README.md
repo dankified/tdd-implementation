@@ -14,7 +14,7 @@
 1. Create a ```person.test.js``` inside the ```__tests__``` directory.
 2. In ```person.test.js``` require ```Person``` from ```person.js```. understant that we haven't created ```Person``` nor ```person.js``` yet.
 
-**Note:** If you want to add proper structure to your tests you should wrap all your tests in a ```describe``` block. Then create to ```test``` blocks, one for the ```Person``` class, and one for ```Person``` instances.
+**Note:** If you want to add proper structure to your tests you should wrap all your tests in a ```describe``` block. Then create two ```test``` blocks, one for the ```Person``` class, and one for ```Person``` instances.
 	
 
 
